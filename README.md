@@ -27,7 +27,7 @@ scratch, you can start with a "Beachhead" install:
 
 ``` shell
 # Install Xcode CLT from https://connect.apple.com
-$ bash -c "$(curl -fsSL https://raw.github.com/DropPod/DropPod/launch)"
+$ bash -c "$(curl -fsSL https://raw.github.com/DropPod/DropPod/launch/installer.sh)"
 ```
 
 This script pulls down a minimal **Drop Pod** installation, ready for you to
